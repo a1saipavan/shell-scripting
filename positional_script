@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "My name is $1"
+echo "My home directory is $2"
+echo "My favorite colour is $3"
+echo "the 10th argument is $4"
+echo "the 11th argument is $5"
+echo $4

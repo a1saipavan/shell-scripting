@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Author: sai pavan
+# Date Created: 13-12-2021
+# Last Modified: 13-12-2021
+
+# Description
+# Prints "This is my first scripting"
+
+echo "This is my first script"
+exit 0
+
